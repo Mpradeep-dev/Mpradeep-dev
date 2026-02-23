@@ -111,7 +111,7 @@
 ## GitHub Analytics 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mpradeep2005&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mpradeep-dev&theme=radical"/>
 </p>
 
 
