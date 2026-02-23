@@ -2,14 +2,12 @@ name: Update GitHub Contribution Streak
 
 on:
   schedule:
-    # Runs every day at 12:00 AM (UTC)
     - cron: "0 0 * * *"
-
-  # Allows manual trigger from Actions tab
   workflow_dispatch:
 
+
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   generate-streak:
