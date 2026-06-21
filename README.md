@@ -90,35 +90,34 @@
 <table>
   <tr>
     <td width="50%">
+      <a href="https://github.com/solnae-tech/wound_care-wound-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=solnae-tech&repo=wound_care-wound-service&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+      </a>
+    </td>
+    <td width="50%">
       <a href="https://github.com/Mpradeep-dev/EstimaX-AI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=EstimaX-AI&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <a href="https://github.com/Mpradeep-dev/FAQ-bot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=FAQ-bot&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <a href="https://github.com/Mpradeep-dev/AI_Trainer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=AI_Trainer&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <a href="https://github.com/Mpradeep-dev/drowsiness-detection">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=drowsiness-detection&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/Microservices">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=Microservices&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-      </a>
-    </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
@@ -152,17 +151,30 @@
 <br/>
 
 <!-- ===================== CERTS ===================== -->
-## 🎓 Certifications & Badges
+## 🎓 Badges
 
-<p>
-  <a href="https://www.credly.com/badges/16eb7360-df4c-4e02-afb2-6dc1e34e5c9b/public_url" title="Credly Verified Badge">
-    <img height="120" src="https://images.credly.com/size/340x340/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Credly Badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/pradeepmurugesan-1244/achievements/8vzlbmqw" title="Microsoft Learn — Plan and prepare to develop AI solutions on Azure">
-    <img height="120" src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="Microsoft Learn — Plan and prepare to develop AI solutions on Azure"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/16eb7360-df4c-4e02-afb2-6dc1e34e5c9b/public_url" title="Credly Verified Badge">
+        <img height="120" src="https://images.credly.com/size/340x340/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Credly Badge"/>
+      </a>
+      <br/><sub><b>Credly Verified Badge</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/users/pradeepmurugesan-1244/achievements/8vzlbmqw" title="Microsoft Learn — Plan and prepare to develop AI solutions on Azure">
+        <img height="120" src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="Microsoft Learn — Plan and prepare to develop AI solutions on Azure"/>
+      </a>
+      <br/><sub><b>Plan and prepare to develop AI solutions on Azure</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/PradeepMurugesan-1244/U7RUGMX3?sharingId=AD910D43E3723347" title="Microsoft Learn — Select, deploy, and evaluate Microsoft Foundry models">
+        <img height="120" src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="Microsoft Learn — Select, deploy, and evaluate Microsoft Foundry models"/>
+      </a>
+      <br/><sub><b>Select, deploy, and evaluate Microsoft Foundry models</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
