@@ -1,136 +1,173 @@
-<!-- ===================== BANNER ===================== -->
 <a id="top"></a>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=210&section=header&text=Pradeep%20Murugesan&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20%C2%B7%20Backend%20%C2%B7%20MLOps&descSize=16&descAlignY=56" />
-</p>
-
-<p align="center">
-  <a href="https://pradeepmurugesan.dev">
-    <img src="https://img.shields.io/badge/Portfolio-26d0ce?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mpradeep-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pradeepmurugesan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mpradeep2005&label=Profile%20Views&color=26d0ce&style=for-the-badge" />
-</p>
-
-<br/>
-
-<!-- ===================== ABOUT ===================== -->
-## 👋 About Me
-
-> Building **real-time computer vision** and **GenAI / RAG systems** — low-latency GPU inference pipelines and scalable FastAPI microservices.
-
-- 🔭 Focused on **Computer Vision**, **RAG Pipelines**, **AI Systems**, and **Backend Engineering**
-- ⚡ Shipping low-latency GPU inference and production ML services
-- 💬 Ask me about **CV · RAG · AI Systems · Backend**
-- 📫 Reach me at **pradeepmurugesan.dev@gmail.com**
-
-<br/>
-
-<!-- ===================== TECH STACK ===================== -->
-## 🧰 Tech Stack
-
-**AI / ML & Computer Vision**
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-**Generative AI**
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vLLM-FD4F00?style=for-the-badge&logo=v&logoColor=white"/>
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
-</p>
-
-**DevOps & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-<br/>
-
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub Stats
-
-<!-- Contribution snake — generated daily by .github/workflows/blank.yml → output branch -->
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mpradeep-dev/Mpradeep-dev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mpradeep-dev/Mpradeep-dev/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mpradeep-dev/Mpradeep-dev/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+    <img alt="Pradeep Murugesan - AI Engineer" width="100%" src="assets/header-dark.svg" />
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://pradeepmurugesan.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=34d3c1" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mpradeep-dev/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:pradeepmurugesan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://github.com/Mpradeep-dev"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=f4f6f8" alt="GitHub" /></a>
+</p>
+
 <br/>
 
-<!-- ===================== CERTS ===================== -->
-## 🎓 Badges
+## What I build
+
+Real-time **computer vision** and **GenAI / RAG** systems: low-latency GPU inference
+pipelines and the scalable FastAPI microservices that serve them in production.
+
+- **Vision** &nbsp;·&nbsp; detection and tracking pipelines, GPU inference, ONNX / TensorRT export
+- **GenAI** &nbsp;·&nbsp; retrieval pipelines, vector search, local and hosted LLM serving
+- **Backend** &nbsp;·&nbsp; FastAPI services, queues and caching, containerised deploys
+
+Reach me at **pradeepmurugesan.dev@gmail.com**.
+
+<br/>
+
+## Stack
+
+**Vision & ML**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&logo=yolo&logoColor=34d3c1" alt="YOLO" />
+  <img src="https://img.shields.io/badge/ONNX-0d1117?style=flat-square&logo=onnx&logoColor=767677" alt="ONNX" />
+  <img src="https://img.shields.io/badge/TensorRT-0d1117?style=flat-square&logo=nvidia&logoColor=76B900" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+</p>
+
+**GenAI**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=f4f6f8" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&logo=pinecone&logoColor=f4f6f8" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=f4f6f8" alt="Ollama" />
+  <img src="https://img.shields.io/badge/vLLM-0d1117?style=flat-square&logo=v&logoColor=FD4F00" alt="vLLM" />
+</p>
+
+**Backend & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+</p>
+
+**Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639" alt="Nginx" />
+  <img src="https://img.shields.io/badge/RabbitMQ-0d1117?style=flat-square&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+</p>
+
+<br/>
+
+## Featured projects
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/16eb7360-df4c-4e02-afb2-6dc1e34e5c9b/public_url" title="Credly Verified Badge">
-        <img height="120" src="https://images.credly.com/size/340x340/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Credly Badge"/>
+    <td width="50%">
+      <a href="https://github.com/Mpradeep-dev/Auto_Label_Flow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=Auto_Label_Flow&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="Auto_Label_Flow" />
       </a>
-      <br/><sub><b>Credly Verified Badge</b></sub>
     </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/en-us/users/pradeepmurugesan-1244/achievements/8vzlbmqw" title="Microsoft Learn — Plan and prepare to develop AI solutions on Azure">
-        <img height="120" src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="Microsoft Learn — Plan and prepare to develop AI solutions on Azure"/>
+    <td width="50%">
+      <a href="https://github.com/solnae-tech/wound_care-wound-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=solnae-tech&repo=wound_care-wound-service&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="wound_care-wound-service" />
       </a>
-      <br/><sub><b>Plan and prepare to develop AI solutions on Azure</b></sub>
     </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/api/achievements/share/en-us/PradeepMurugesan-1244/U7RUGMX3?sharingId=AD910D43E3723347" title="Microsoft Learn — Select, deploy, and evaluate Microsoft Foundry models">
-        <img height="120" src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="Microsoft Learn — Select, deploy, and evaluate Microsoft Foundry models"/>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Mpradeep-dev/EstimaX-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=EstimaX-AI&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="EstimaX-AI" />
       </a>
-      <br/><sub><b>Select, deploy, and evaluate Microsoft Foundry models</b></sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Mpradeep-dev/FAQ-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=FAQ-bot&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="FAQ-bot" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Mpradeep-dev/AI_Trainer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=AI_Trainer&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="AI_Trainer" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Mpradeep-dev/drowsiness-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=drowsiness-detection&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="drowsiness-detection" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
+## Activity
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mpradeep-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpradeep-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="Top languages" />
 </p>
 
 <p align="center">
-  <b>Open to collaboration and opportunities</b> &nbsp;·&nbsp; <a href="#top">↑ back to top</a>
+  <img src="https://streak-stats.demolab.com/?user=Mpradeep-dev&hide_border=true&background=0d1117&stroke=1b2430&ring=34d3c1&fire=34d3c1&currStreakLabel=34d3c1&sideLabels=8b98a5&dates=8b98a5&currStreakNum=f4f6f8&sideNums=f4f6f8&excludeDaysLabel=8b98a5" alt="Contribution streak" />
 </p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mpradeep-dev&hide_border=true&bg_color=0d1117&color=f4f6f8&line=34d3c1&point=f4f6f8&area=true&area_color=34d3c1&title_color=34d3c1" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mpradeep-dev/Mpradeep-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mpradeep-dev/Mpradeep-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Mpradeep-dev/Mpradeep-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<br/>
+
+## Verified badges
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/16eb7360-df4c-4e02-afb2-6dc1e34e5c9b/public_url">
+        <img height="108" src="https://images.credly.com/size/340x340/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Credly verified badge" />
+      </a>
+      <br /><sub><b>Credly verified</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://learn.microsoft.com/en-us/users/pradeepmurugesan-1244/achievements/8vzlbmqw">
+        <img height="108" src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="Microsoft Learn achievement" />
+      </a>
+      <br /><sub><b>Azure AI: plan and prepare to develop AI solutions</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/PradeepMurugesan-1244/U7RUGMX3?sharingId=AD910D43E3723347">
+        <img height="108" src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="Microsoft Learn achievement" />
+      </a>
+      <br /><sub><b>Microsoft Foundry: select, deploy, evaluate models</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub>Open to collaboration and roles in applied AI. &nbsp;·&nbsp; <a href="#top">Back to top</a></sub>
