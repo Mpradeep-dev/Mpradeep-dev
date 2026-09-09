@@ -84,60 +84,8 @@
 
 <br/>
 
-<!-- ===================== PROJECTS ===================== -->
-## 📂 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/solnae-tech/wound_care-wound-service">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=solnae-tech&repo=wound_care-wound-service&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/EstimaX-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=EstimaX-AI&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/FAQ-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=FAQ-bot&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/AI_Trainer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=AI_Trainer&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/drowsiness-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=drowsiness-detection&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mpradeep-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpradeep-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mpradeep-dev&theme=tokyonight&hide_border=true&background=1a1b27" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mpradeep-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=26d0ce&line=26d0ce&point=ffffff&area=true" />
-</p>
 
 <!-- Contribution snake — generated daily by .github/workflows/blank.yml → output branch -->
 <p align="center">
