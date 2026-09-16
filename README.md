@@ -20,7 +20,7 @@
 ## What I build
 
 Real-time **computer vision** and **GenAI / RAG** systems: low-latency GPU inference
-pipelines and the scalable FastAPI microservices that serve them in production.
+pipelines and the scalable microservices that serve them in production.
 
 - **Vision** &nbsp;·&nbsp; detection and tracking pipelines, GPU inference, ONNX / TensorRT export
 - **GenAI** &nbsp;·&nbsp; retrieval pipelines, vector search, local and hosted LLM serving
@@ -37,7 +37,7 @@ Reach me at **pradeepmurugesan.dev@gmail.com**.
 <p>
   <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&logo=yolo&logoColor=34d3c1" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Computer%20Vision%20Models-0d1117?style=flat-square&logoColor=34d3c1" alt="Computer Vision Models" />
   <img src="https://img.shields.io/badge/ONNX-0d1117?style=flat-square&logo=onnx&logoColor=767677" alt="ONNX" />
   <img src="https://img.shields.io/badge/TensorRT-0d1117?style=flat-square&logo=nvidia&logoColor=76B900" alt="TensorRT" />
   <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
