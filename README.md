@@ -20,7 +20,7 @@
 ## What I build
 
 Real-time **computer vision** and **GenAI / RAG** systems: low-latency GPU inference
-pipelines and the scalable FastAPI microservices that serve them in production.
+pipelines and the scalable microservices that serve them in production.
 
 - **Vision** &nbsp;·&nbsp; detection and tracking pipelines, GPU inference, ONNX / TensorRT export
 - **GenAI** &nbsp;·&nbsp; retrieval pipelines, vector search, local and hosted LLM serving
@@ -37,7 +37,7 @@ Reach me at **pradeepmurugesan.dev@gmail.com**.
 <p>
   <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&logo=yolo&logoColor=34d3c1" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Computer%20Vision%20Models-0d1117?style=flat-square&logoColor=34d3c1" alt="Computer Vision Models" />
   <img src="https://img.shields.io/badge/ONNX-0d1117?style=flat-square&logo=onnx&logoColor=767677" alt="ONNX" />
   <img src="https://img.shields.io/badge/TensorRT-0d1117?style=flat-square&logo=nvidia&logoColor=76B900" alt="TensorRT" />
   <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
@@ -79,58 +79,64 @@ Reach me at **pradeepmurugesan.dev@gmail.com**.
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/Auto_Label_Flow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=Auto_Label_Flow&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="Auto_Label_Flow" />
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Mpradeep-dev/Auto_Label_Flow"><b>Auto_Label_Flow</b></a><br/>
+      Auto-labelling pipeline that turns raw image frames into training-ready annotations.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
     </td>
-    <td width="50%">
-      <a href="https://github.com/solnae-tech/wound_care-wound-service">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=solnae-tech&repo=wound_care-wound-service&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="wound_care-wound-service" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/EstimaX-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=EstimaX-AI&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="EstimaX-AI" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/FAQ-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=FAQ-bot&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="FAQ-bot" />
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/solnae-tech/wound_care-wound-service"><b>wound_care-wound-service</b></a><br/>
+      Wound-assessment microservice: segmentation and measurement over clinical images.<br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/AI_Trainer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=AI_Trainer&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="AI_Trainer" />
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Mpradeep-dev/EstimaX-AI"><b>EstimaX-AI</b></a><br/>
+      AI service for project cost and effort estimation from structured inputs.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
     </td>
-    <td width="50%">
-      <a href="https://github.com/Mpradeep-dev/drowsiness-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mpradeep-dev&repo=drowsiness-detection&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="drowsiness-detection" />
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Mpradeep-dev/FAQ-bot"><b>FAQ-bot</b></a><br/>
+      Retrieval-augmented FAQ assistant over a private knowledge base.<br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=f4f6f8" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Mpradeep-dev/AI_Trainer"><b>AI_Trainer</b></a><br/>
+      Real-time exercise form coach driven by pose estimation.<br/><br/>
+      <img src="https://img.shields.io/badge/MediaPipe-0d1117?style=flat-square&logo=google&logoColor=0097A7" alt="MediaPipe" />
+      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Mpradeep-dev/drowsiness-detection"><b>drowsiness-detection</b></a><br/>
+      Driver drowsiness detection from eye-aspect-ratio and head pose.<br/><br/>
+      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/dlib-0d1117?style=flat-square&logo=python&logoColor=FFD43B" alt="dlib" />
     </td>
   </tr>
 </table>
+
+<sub>Descriptions are placeholders. Edit them to match each repo.</sub>
 
 <br/>
 
 ## Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mpradeep-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=34d3c1&icon_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpradeep-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=34d3c1&text_color=8b98a5&border_color=1b2430" alt="Top languages" />
-</p>
+<!--
+  GitHub stats + top languages are omitted: the shared github-readme-stats.vercel.app
+  instance is currently paused (HTTP 503) and github-readme-activity-graph is disabled
+  (HTTP 402). To bring them back reliably, deploy your own github-readme-stats instance
+  to Vercel and point the URLs at <your-instance>.vercel.app/api?username=Mpradeep-dev...
+-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mpradeep-dev&hide_border=true&background=0d1117&stroke=1b2430&ring=34d3c1&fire=34d3c1&currStreakLabel=34d3c1&sideLabels=8b98a5&dates=8b98a5&currStreakNum=f4f6f8&sideNums=f4f6f8&excludeDaysLabel=8b98a5" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mpradeep-dev&hide_border=true&bg_color=0d1117&color=f4f6f8&line=34d3c1&point=f4f6f8&area=true&area_color=34d3c1&title_color=34d3c1" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
